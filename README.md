@@ -1,14 +1,51 @@
-# To-do-List using React useState Hook
-Developed a dynamic ToDo List application using React, with a strong focus on state management through the useState Hook. The application allows users to add, display, update, complete, and delete tasks while maintaining real-time UI updates based on state changes.
+# 📝 To-Do List Application
 
-# Live Link 
-https://maheshkn30.github.io/To-do-List
+A dynamic and interactive **To-Do List Application** built with **React.js**, focusing on state management using the **useState Hook**. This application enables users to efficiently manage their daily tasks with real-time updates and a user-friendly interface.
 
-# Technologies Used
-React.js
+## 🚀 Live Demo
 
-# 🎯 Learning Objectives
-1. useState Hook
-2. CRUD Oprtaions
-3. Search and Filtering Options
-4. Data Storing in Array and Displaying
+🔗 **Live Link:** https://maheshkn30.github.io/To-do-List
+
+## 📌 Features
+
+* ➕ Add new tasks
+* 📋 Display all tasks
+* ✏️ Update existing tasks
+* ✅ Mark tasks as completed
+* 🗑️ Delete tasks
+* 🔍 Search tasks instantly
+* 🎯 Filter tasks based on status
+* ⚡ Real-time UI updates using React state management
+
+## 🛠️ Technologies Used
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+## 🎯 Learning Objectives
+
+This project was developed to gain hands-on experience with:
+
+1. **React useState Hook**
+
+   * Managing component state
+   * Updating UI dynamically
+
+2. **CRUD Operations**
+
+   * Create Tasks
+   * Read Tasks
+   * Update Tasks
+   * Delete Tasks
+
+3. **Search & Filtering**
+
+   * Searching tasks by keyword
+   * Filtering tasks based on completion status
+
+4. **Array State Management**
+
+   * Storing task data in arrays
+   * Rendering dynamic lists using React
